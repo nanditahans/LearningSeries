@@ -5,13 +5,14 @@
 - **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://youtu.be/NppNVEZerxo
 - **Rabin Karp Algorithm** - Mayur Soni - 7th August
 - **Web-assembly** - Atul Sharma - 14th August
+- **TailwindCSS - Basics and Quickstart** - Nipun Jain - 19th August
 - **Selenium UI based Testing** - Rahul Chowdhary - 21st August
-- **TailwindCSS - Basics and Quickstart** - Nipun Jain - 21st August (conflict)
 - **Basics of Python** - Arpit Jain - 28th August
+- **Kafka Streams** - Mayur Soni - 2nd September
 - **Optimizing single page applications** - Vijay Joshi - 4th September
-- **Kafka Streams** - Mayur Soni - 4th September (conflict)
-- **WebScrapping with Java** - Aman Soni - 4th September (conflict)
+- **WebScrapping with Java** - Aman Soni - 9th September
 - **Introduction to Dart** - Dhananjay Gupta - 11th September
+- **Spring Batch** - Gunjan - 16th September
 - **Quarkas** - Piyush Tyagi - 18th September
 - **UI Automation using RPA** - Piyush Joshi - 25th September
 
@@ -27,7 +28,7 @@
 - **Mailshpere Architecture** - Ronak Dhoot
 - **Datashaka Architecture** - Nitin
 - **Magento: How to Start** - Arpit
-- **Drupal for Geeks** - Ronak
+- **Drupal for Geeks** - Ronak Dhoot
 - **RESTful APIs, Spring Boot, MongoDB Integration** - Shubham
 - **Wordpress: How to Start** - Arpit
 - **Angular Js** - Rajeev
@@ -56,7 +57,7 @@
 - **Microservices with Kubernetes and docker** - Ankit Rai 
 - **Ansible [ Open source Automation Tool ]** - Ankit Rawat
 - **API security** - Rajdeep
-- **Svelte - Cybernetically enhanced web apps** - Vijay Joshi
+- **Svelte - Cybernetically enhanced web apps** - Vijay Joshi - https://www.corevaluetech.com/blog/svelte-cybernetically-enhanced-web-apps
 - **WebSockets** - Gunjan - https://www.corevaluetech.com/blog/websockets
 - **ReactJS - Basics and Quickstart** - Nipun - https://www.corevaluetech.com/blog/reactjs-basics-and-quickstart
 - **Concurrency In Java** - Dhananjay - https://www.corevaluetech.com/blog/concurrency-java
@@ -67,7 +68,7 @@
 - **NumPy with Brief of Python** - Deepak - https://www.corevaluetech.com/blog/numpy-building-block-data-analytics
 - **Athena** - Piyush Tyagi - https://www.corevaluetech.com/blog/athena-get-know-it
 - **Pandas - Part 1 & Part 2 - Python Data Analysis** - Deepak - https://www.corevaluetech.com/blog/pandas-first-step-data-analytics
-- **Kafka** - Gunjan Kumar Mehta - https://www.corevaluetech.com/blog/apache-kafka-what-where-why
+- **Kafka** - Gunjan - https://www.corevaluetech.com/blog/apache-kafka-what-where-why
 - **Micronaut** - Piyush Tyagi - https://www.corevaluetech.com/blog/micronaut-framework-introduction
 - **Frontend Battleground : Angular Vs React Vs Vue** - Atul Sharma (BLOG pending)
 - **Stream API java Part 1 & Part 2** - Deepak Singh  (BLOG pending) - https://www.youtube.com/watch?v=iyVzGkLj_B4
