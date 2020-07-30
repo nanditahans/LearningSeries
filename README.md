@@ -15,6 +15,8 @@
 - **Spring Batch** - Gunjan - 16th September
 - **Quarkas** - Piyush Tyagi - 18th September
 - **UI Automation using RPA** - Piyush Joshi - 25th September
+- **Backtracking Algorithms** - Nandita Hans - 1st October
+- **Gotify** - Deepak Singh - 9th October
 
 ## Done
 - **NextJS** - Dhruv Sachdeva (BLOG pending) - https://www.youtube.com/watch?v=QN3ka0ggFrg
