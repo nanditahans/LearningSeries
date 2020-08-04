@@ -6,7 +6,7 @@
 - **Web-assembly** - Atul - 14th August
 - **TailwindCSS - Basics and Quickstart** - Nipun - 19th August
 - **Selenium UI based Testing** - Rahul - 21st August
-- **Basics of Python** - Arpit Jain - 28th August
+- **Introduction to powershell** - Arpit Jain - 28th August
 - **Kafka Streams** - M Soni - 2nd September
 - **Optimizing single page applications** - Vijay - 4th September
 - **WebScrapping with Java** - Aman - 9th September
