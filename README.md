@@ -18,9 +18,9 @@
 - **Gotify** - Deepak - 9th October
 
 ## Done
-- **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://www.youtube.com/watch?v=NppNVEZerxo
-- **NextJS** - Dhruv Sachdeva (BLOG pending) - https://www.youtube.com/watch?v=QN3ka0ggFrg
-- **Stream API java Part 1 & Part 2** - Deepak Singh  (BLOG pending) - https://www.youtube.com/watch?v=iyVzGkLj_B4
+- **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://www.youtube.com/watch?v=NppNVEZerxo (BLOG pending)
+- **NextJS** - Dhruv Sachdeva - https://www.youtube.com/watch?v=QN3ka0ggFrg
+- **Stream API java Part 1 & Part 2** - Deepak Singh - https://www.youtube.com/watch?v=iyVzGkLj_B4
 - **Frontend Battleground : Angular Vs React Vs Vue** - Atul Sharma (BLOG pending)
 - **Micronaut** - Piyush Tyagi - https://www.corevaluetech.com/blog/micronaut-framework-introduction
 - **Kafka** - Gunjan - https://www.corevaluetech.com/blog/apache-kafka-what-where-why
