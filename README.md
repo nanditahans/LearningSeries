@@ -2,7 +2,6 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Rabin Karp Algorithm** - Mayur - 7th August - https://youtu.be/mguXrxQlNaE
 - **Web-assembly** - Atul - 14th August
 - **TailwindCSS - Basics and Quickstart** - Nipun - 19th August
 - **Selenium UI based Testing** - Rahul - 21st August
@@ -18,7 +17,8 @@
 - **Gotify** - Deepak - 9th October
 
 ## Done
-- **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://www.youtube.com/watch?v=NppNVEZerxo (BLOG pending)
+- **Rabin Karp Algorithm** - Mayur - 7th August - https://youtu.be/6uWm5Q0SRBU (BLOG pending)
+- **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://youtu.be/MCFJJspAE20 (BLOG pending)
 - **NextJS** - Dhruv Sachdeva - https://www.youtube.com/watch?v=QN3ka0ggFrg
 - **Stream API java Part 1 & Part 2** - Deepak Singh - https://www.youtube.com/watch?v=iyVzGkLj_B4
 - **Frontend Battleground : Angular Vs React Vs Vue** - Atul Sharma (BLOG pending)
