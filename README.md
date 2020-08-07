@@ -2,7 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Web-assembly** - Atul - 14th August
+- **Web-assembly** - Atul - 14th August - https://youtu.be/gUeTz15PaKA
 - **TailwindCSS - Basics and Quickstart** - Nipun - 19th August
 - **Selenium UI based Testing** - Rahul - 21st August
 - **Introduction to powershell** - Arpit Jain - 28th August
