@@ -3,7 +3,7 @@
 
 ## Upcoming
 - **Web-assembly** - Atul - 14th August - https://youtu.be/gUeTz15PaKA
-- **TailwindCSS - Basics and Quickstart** - Nipun - 19th August
+- **TailwindCSS - Basics and Quickstart** - Nipun - 19th August - https://www.corevaluetech.com/blog/tailwindcss-basics-and-quickstart
 - **Selenium UI based Testing** - Rahul - 21st August
 - **Introduction to powershell** - Arpit Jain - 28th August
 - **Kafka Streams** - M Soni - 2nd September
