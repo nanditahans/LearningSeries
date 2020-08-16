@@ -2,8 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Web-assembly** - Atul - 14th August - https://youtu.be/gUeTz15PaKA
-- **TailwindCSS - Basics and Quickstart** - Nipun - 19th August - https://www.corevaluetech.com/blog/tailwindcss-basics-and-quickstart
+- **TailwindCSS - Basics and Quickstart** - Nipun - 19th August - https://www.corevaluetech.com/blog/tailwindcss-basics-and-quickstart - https://youtu.be/MC0lh1WZ_ZM
 - **Selenium UI based Testing** - Rahul - 21st August
 - **Introduction to powershell** - Arpit Jain - 28th August
 - **Kafka Streams** - M Soni - 2nd September
@@ -17,11 +16,12 @@
 - **Gotify** - Deepak - 9th October
 
 ## Done
-- **Rabin Karp Algorithm** - Mayur - 7th August - https://youtu.be/6uWm5Q0SRBU (BLOG pending)
-- **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://youtu.be/MCFJJspAE20 (BLOG pending)
-- **NextJS** - Dhruv Sachdeva - https://www.youtube.com/watch?v=QN3ka0ggFrg
-- **Stream API java Part 1 & Part 2** - Deepak Singh - https://www.youtube.com/watch?v=iyVzGkLj_B4
-- **Frontend Battleground : Angular Vs React Vs Vue** - Atul Sharma (BLOG pending)
+- **Web-assembly** - Atul - 14th August - https://youtu.be/v_Gm6iWPIOE **(BLOG pending)**
+- **Rabin Karp Algorithm** - Mayur - 7th August - https://youtu.be/6uWm5Q0SRBU **(BLOG pending)**
+- **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://youtu.be/MCFJJspAE20 **(BLOG pending)**
+- **NextJS & SSR** - Dhruv Sachdeva - https://youtu.be/QN3ka0ggFrg - https://www.corevaluetech.com/blog/ssr-csr-advantages-and-disadvantages
+- **Stream API java Part 1 & Part 2** - Deepak Singh - https://youtu.be/v=iyVzGkLj_B4 - https://www.corevaluetech.com/blog/java-streams
+- **Frontend Battleground : Angular Vs React Vs Vue** - Atul Sharma **(BLOG pending)**
 - **Micronaut** - Piyush Tyagi - https://www.corevaluetech.com/blog/micronaut-framework-introduction
 - **Kafka** - Gunjan - https://www.corevaluetech.com/blog/apache-kafka-what-where-why
 - **Pandas - Part 1 & Part 2 - Python Data Analysis** - Deepak - https://www.corevaluetech.com/blog/pandas-first-step-data-analytics
