@@ -16,7 +16,7 @@
 - **Gotify** - Deepak - 9th October
 
 ## Done
-- **Web-assembly** - Atul - 14th August - https://youtu.be/v_Gm6iWPIOE **(BLOG pending)**
+- **Web-assembly** - Atul - 14th August - https://youtu.be/v_Gm6iWPIOE - https://www.corevaluetech.com/blog/web-assembly
 - **Rabin Karp Algorithm** - Mayur - 7th August - https://youtu.be/6uWm5Q0SRBU **(BLOG pending)**
 - **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://youtu.be/MCFJJspAE20 **(BLOG pending)**
 - **NextJS & SSR** - Dhruv Sachdeva - https://youtu.be/QN3ka0ggFrg - https://www.corevaluetech.com/blog/ssr-csr-advantages-and-disadvantages
