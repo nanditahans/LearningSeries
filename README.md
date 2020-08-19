@@ -2,8 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **TailwindCSS - Basics and Quickstart** - Nipun - 19th August - https://www.corevaluetech.com/blog/tailwindcss-basics-and-quickstart - https://youtu.be/MC0lh1WZ_ZM
-- **Selenium UI based Testing** - Rahul - 21st August
+- **Selenium UI based Testing** - Rahul - 21st August - https://www.corevaluetech.com/blog/ui-based-automation-using-selenium - https://youtu.be/vLla90fkRPk
 - **Introduction to powershell** - Arpit Jain - 28th August
 - **Kafka Streams** - M Soni - 2nd September
 - **Optimizing single page applications** - Vijay - 4th September
@@ -16,6 +15,7 @@
 - **Gotify** - Deepak - 9th October
 
 ## Done
+- **TailwindCSS - Basics and Quickstart** - Nipun - 19th August - https://youtu.be/jSxxTEAFxI8 - https://www.corevaluetech.com/blog/tailwindcss-basics-and-quickstart
 - **Web-assembly** - Atul - 14th August - https://youtu.be/v_Gm6iWPIOE - https://www.corevaluetech.com/blog/web-assembly
 - **Rabin Karp Algorithm** - Mayur - 7th August - https://youtu.be/6uWm5Q0SRBU **(BLOG pending)**
 - **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://youtu.be/MCFJJspAE20 **(BLOG pending)**
