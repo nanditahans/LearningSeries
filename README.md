@@ -2,8 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **ASP.NET Core Part-1** - Navneet Sharma - 26th August
-- **Introduction to powershell** - Arpit Jain - 28th August
+- **ASP.NET Core Part-1** - Navneet Sharma - 28th August
 - **Kafka Streams** - M Soni - 2nd September
 - **Optimizing single page applications** - Vijay - 4th September
 - **ASP.NET Core Part-2** - Navneet Sharma - 9th September
@@ -11,6 +10,7 @@
 - **Introduction to Dart** - Dhananjay - 11th September
 - **Spring Batch** - Gunjan - 16th September
 - **Quarkas** - Piyush Tyagi - 18th September
+- **Introduction to powershell** - Arpit Jain - 23rd September
 - **UI Automation using RPA** - Piyush Joshi - 25th September
 - **Backtracking Algorithms** - Nandita - 1st October
 - **Gotify** - Deepak - 9th October
