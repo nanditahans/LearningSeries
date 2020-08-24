@@ -20,7 +20,7 @@
 - **TailwindCSS - Basics and Quickstart** - Nipun - 19th August - https://youtu.be/jSxxTEAFxI8 - https://www.corevaluetech.com/blog/tailwindcss-basics-and-quickstart
 - **Web-assembly** - Atul - 14th August - https://youtu.be/v_Gm6iWPIOE - https://www.corevaluetech.com/blog/web-assembly
 - **Rabin Karp Algorithm** - Mayur - 7th August - https://youtu.be/6uWm5Q0SRBU **(BLOG pending)**
-- **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://youtu.be/MCFJJspAE20 **(BLOG pending)**
+- **Sails.js | Realtime MVC Framework for Node.js** - Arpit Pal - 31st July - https://youtu.be/MCFJJspAE20 - https://www.corevaluetech.com/blog/sailsjs-realtime-mvc-framework-nodejs
 - **NextJS & SSR** - Dhruv Sachdeva - https://youtu.be/QN3ka0ggFrg - https://www.corevaluetech.com/blog/ssr-csr-advantages-and-disadvantages
 - **Stream API java Part 1 & Part 2** - Deepak Singh - https://youtu.be/v=iyVzGkLj_B4 - https://www.corevaluetech.com/blog/java-streams
 - **Frontend Battleground : Angular Vs React Vs Vue** - Atul Sharma **(BLOG pending)**
