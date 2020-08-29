@@ -2,8 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
-
-- **Kafka Streams** - M Soni - 2nd September
+- **Introduction to Expo** - Rishabh Seth - 2nd September - https://www.corevaluetech.com/blog/introduction-expo
 - **Optimizing single page applications** - Vijay - 4th September
 - **WebScrapping with Java** - Aman - 9th September
 - **Introduction to Dart** - Dhananjay - 11th September
@@ -14,6 +13,7 @@
 - **ASP.NET Core Part-1** - Navneet Sharma - 30th September
 - **ASP.NET Core Part-2** - Navneet Sharma - 7th October
 - **Gotify** - Deepak - 9th October
+- **Kafka Streams** - M Soni - To be decided
 
 ## Done
 - **Backtracking Algorithms** - Nandita - 28th August - https://www.corevaluetech.com/blog/backtracking-algorithms - https://youtu.be/nNaeYANiWUA
