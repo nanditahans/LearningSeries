@@ -2,7 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Backtracking Algorithms** - Nandita - 28th August
+
 - **Kafka Streams** - M Soni - 2nd September
 - **Optimizing single page applications** - Vijay - 4th September
 - **WebScrapping with Java** - Aman - 9th September
@@ -16,6 +16,7 @@
 - **Gotify** - Deepak - 9th October
 
 ## Done
+- **Backtracking Algorithms** - Nandita - 28th August - https://www.corevaluetech.com/blog/backtracking-algorithms - https://youtu.be/nNaeYANiWUA
 - **Selenium UI based Testing** - Rahul - 21st August - https://www.corevaluetech.com/blog/ui-based-automation-using-selenium - https://youtu.be/SUNK_LaJSl4
 - **TailwindCSS - Basics and Quickstart** - Nipun - 19th August - https://youtu.be/jSxxTEAFxI8 - https://www.corevaluetech.com/blog/tailwindcss-basics-and-quickstart
 - **Web-assembly** - Atul - 14th August - https://youtu.be/v_Gm6iWPIOE - https://www.corevaluetech.com/blog/web-assembly
