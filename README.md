@@ -2,8 +2,8 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Introduction to Expo** - Rishabh Seth - 2nd September - https://www.corevaluetech.com/blog/introduction-expo
-- **Optimizing single page applications** - Vijay - 4th September
+- **Introduction to Expo** - Rishabh Seth - 2nd September - https://www.corevaluetech.com/blog/introduction-expo - https://youtu.be/dW-aj6F1Km8
+- **Optimizing single page applications** - Vijay - 4th September - https://www.corevaluetech.com/blog/optimizing-single-page-and-web-applications-performance - https://youtu.be/zhD-X0I56G0
 - **WebScrapping with Java** - Aman - 9th September
 - **Introduction to Dart** - Dhananjay - 11th September
 - **Spring Batch** - Gunjan - 16th September
