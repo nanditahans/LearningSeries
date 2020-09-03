@@ -2,7 +2,6 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Introduction to Expo** - Rishabh Seth - 2nd September - https://www.corevaluetech.com/blog/introduction-expo - https://youtu.be/dW-aj6F1Km8
 - **Optimizing single page applications** - Vijay - 4th September - https://www.corevaluetech.com/blog/optimizing-single-page-and-web-applications-performance - https://youtu.be/zhD-X0I56G0
 - **WebScrapping with Java** - Aman - 9th September
 - **Introduction to Dart** - Dhananjay - 11th September
@@ -16,6 +15,7 @@
 - **Kafka Streams** - M Soni - To be decided
 
 ## Done
+- **Introduction to Expo** - Rishabh Seth - 2nd September - https://www.corevaluetech.com/blog/introduction-expo - https://youtu.be/3bcm-MTA76M
 - **Backtracking Algorithms** - Nandita - 28th August - https://www.corevaluetech.com/blog/backtracking-algorithms - https://youtu.be/nNaeYANiWUA
 - **Selenium UI based Testing** - Rahul - 21st August - https://www.corevaluetech.com/blog/ui-based-automation-using-selenium - https://youtu.be/SUNK_LaJSl4
 - **TailwindCSS - Basics and Quickstart** - Nipun - 19th August - https://youtu.be/jSxxTEAFxI8 - https://www.corevaluetech.com/blog/tailwindcss-basics-and-quickstart
