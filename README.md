@@ -3,7 +3,7 @@
 
 ## Upcoming
 - **Optimizing single page applications** - Vijay - 4th September - https://www.corevaluetech.com/blog/optimizing-single-page-and-web-applications-performance - https://youtu.be/zhD-X0I56G0
-- **WebScrapping with Java** - Aman - 9th September
+- **Gotify** - Deepak - 9th September - https://www.corevaluetech.com/blog/gotify-open-source-push-notifications-tool
 - **Introduction to Dart** - Dhananjay - 11th September
 - **Spring Batch** - Gunjan - 16th September
 - **Quarkas** - Piyush Tyagi - 18th September
@@ -11,7 +11,8 @@
 - **UI Automation using RPA** - Piyush Joshi - 25th September
 - **ASP.NET Core Part-1** - Navneet Sharma - 30th September
 - **ASP.NET Core Part-2** - Navneet Sharma - 7th October
-- **Gotify** - Deepak - 9th October
+- **Concurrency in Transaction** - Nandita Hans - 9th October
+- **WebScrapping with Java** - Aman - To be decided
 - **Kafka Streams** - M Soni - To be decided
 
 ## Done
