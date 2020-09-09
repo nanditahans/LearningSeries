@@ -3,7 +3,7 @@
 
 ## Upcoming
 - **Gotify** - Deepak - 9th September - https://www.corevaluetech.com/blog/gotify-open-source-push-notifications-tool - https://youtu.be/n-u9PTRjgyY
-- **Introduction to Dart** - Dhananjay - 11th September - https://www.corevaluetech.com/blog/introduction-to-dart - https://youtu.be/X2A2EEbwIW8
+- **Introduction to Dart** - Dhananjay - 11th September - https://www.corevaluetech.com/blog/introduction-dart - https://youtu.be/X2A2EEbwIW8
 - **Spring Batch** - Gunjan - 16th September
 - **Quarkas** - Piyush Tyagi - 18th September
 - **Introduction to powershell** - Arpit Jain - 23rd September
