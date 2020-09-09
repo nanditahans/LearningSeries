@@ -2,9 +2,8 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Optimizing single page applications** - Vijay - 4th September - https://www.corevaluetech.com/blog/optimizing-single-page-and-web-applications-performance - https://youtu.be/zhD-X0I56G0
-- **Gotify** - Deepak - 9th September - https://www.corevaluetech.com/blog/gotify-open-source-push-notifications-tool
-- **Introduction to Dart** - Dhananjay - 11th September
+- **Gotify** - Deepak - 9th September - https://www.corevaluetech.com/blog/gotify-open-source-push-notifications-tool - https://youtu.be/n-u9PTRjgyY
+- **Introduction to Dart** - Dhananjay - 11th September - https://www.corevaluetech.com/blog/introduction-to-dart - https://youtu.be/X2A2EEbwIW8
 - **Spring Batch** - Gunjan - 16th September
 - **Quarkas** - Piyush Tyagi - 18th September
 - **Introduction to powershell** - Arpit Jain - 23rd September
@@ -16,6 +15,7 @@
 - **Kafka Streams** - M Soni - To be decided
 
 ## Done
+- **Optimizing single page applications** - Vijay - 4th September - https://www.corevaluetech.com/blog/optimizing-single-page-and-web-applications-performance - https://youtu.be/cTzwy-IoOR8
 - **Introduction to Expo** - Rishabh Seth - 2nd September - https://www.corevaluetech.com/blog/introduction-expo - https://youtu.be/3bcm-MTA76M
 - **Backtracking Algorithms** - Nandita - 28th August - https://www.corevaluetech.com/blog/backtracking-algorithms - https://youtu.be/nNaeYANiWUA
 - **Selenium UI based Testing** - Rahul - 21st August - https://www.corevaluetech.com/blog/ui-based-automation-using-selenium - https://youtu.be/SUNK_LaJSl4
