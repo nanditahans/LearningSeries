@@ -2,18 +2,18 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Introduction to Dart** - Dhananjay - 11th September - https://www.corevaluetech.com/blog/introduction-dart - https://youtu.be/X2A2EEbwIW8
-- **Spring Batch** - Gunjan - 16th September
-- **Quarkas** - Piyush Tyagi - 18th September
+- **Spring Batch** - Gunjan - 16th September - https://www.corevaluetech.com/blog/introduction-dart - https://youtu.be/36AM5l6SDMA
+- **Concurrency in Transaction** - Nandita Hans - 18th September - https://www.corevaluetech.com/blog/introduction-dart - https://youtu.be/wsC31ihbGbs
 - **UI Automation using RPA** - Piyush Joshi - 25th September
 - **ASP.NET Core Part-1** - Navneet Sharma - 30th September
 - **ASP.NET Core Part-2** - Navneet Sharma - 7th October
-- **Concurrency in Transaction** - Nandita Hans - 9th October
+- **Quarkas** - Piyush Tyagi - 9th October
 - **WebScrapping with Java** - Aman - To be decided
 - **Kafka Streams** - M Soni - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 
 ## Done
+- **Introduction to Dart** - Dhananjay - 11th September - https://www.corevaluetech.com/blog/introduction-dart - https://youtu.be/52h9t4nuPLs
 - **Gotify** - Deepak - 9th September - https://www.corevaluetech.com/blog/gotify-open-source-push-notifications-tool - https://youtu.be/n-u9PTRjgyY
 - **Optimizing single page applications** - Vijay - 4th September - https://www.corevaluetech.com/blog/optimizing-single-page-and-web-applications-performance - https://youtu.be/cTzwy-IoOR8
 - **Introduction to Expo** - Rishabh Seth - 2nd September - https://www.corevaluetech.com/blog/introduction-expo - https://youtu.be/3bcm-MTA76M
