@@ -3,7 +3,7 @@
 
 ## Upcoming
 - **Spring Batch** - Gunjan - 16th September - https://www.corevaluetech.com/blog/introduction-spring-batch - https://youtu.be/36AM5l6SDMA
-- **Concurrency in Transaction** - Nandita Hans - 18th September - https://www.corevaluetech.com/blog/introduction-dart - https://youtu.be/wsC31ihbGbs
+- **Concurrency in Transaction** - Nandita Hans - 18th September - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/wsC31ihbGbs
 - **UI Automation using RPA** - Piyush Joshi - 25th September
 - **ASP.NET Core Part-1** - Navneet Sharma - 30th September
 - **ASP.NET Core Part-2** - Navneet Sharma - 7th October
