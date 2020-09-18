@@ -2,17 +2,17 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Spring Batch** - Gunjan - 16th September - https://www.corevaluetech.com/blog/introduction-spring-batch - https://youtu.be/36AM5l6SDMA
-- **Concurrency in Transaction** - Nandita Hans - 18th September - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/wsC31ihbGbs
 - **UI Automation using RPA** - Piyush Joshi - 25th September
 - **ASP.NET Core Part-1** - Navneet Sharma - 30th September
 - **ASP.NET Core Part-2** - Navneet Sharma - 7th October
 - **Quarkas** - Piyush Tyagi - 9th October
+- **Concurrency in Transaction** - Nandita Hans - 14th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/wsC31ihbGbs
 - **WebScrapping with Java** - Aman - To be decided
 - **Kafka Streams** - M Soni - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 
 ## Done
+- **Spring Batch** - Gunjan - 16th September - https://www.corevaluetech.com/blog/introduction-spring-batch - https://youtu.be/YXlJlna1C1E
 - **Introduction to Dart** - Dhananjay - 11th September - https://www.corevaluetech.com/blog/introduction-dart - https://youtu.be/52h9t4nuPLs
 - **Gotify** - Deepak - 9th September - https://www.corevaluetech.com/blog/gotify-open-source-push-notifications-tool - https://youtu.be/n-u9PTRjgyY
 - **Optimizing single page applications** - Vijay - 4th September - https://www.corevaluetech.com/blog/optimizing-single-page-and-web-applications-performance - https://youtu.be/cTzwy-IoOR8
