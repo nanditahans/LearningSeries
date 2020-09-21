@@ -2,8 +2,8 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **UI Automation using RPA** - Piyush Joshi - 25th September
-- **ASP.NET Core Part-1** - Navneet Sharma - 30th September
+- **UI Automation using RPA** - Piyush Joshi - 25th September - https://www.corevaluetech.com/blog/rpa-using-ui-path - https://youtu.be/aSFfc2GNW-E
+- **ASP.NET Core Part-1** - Navneet Sharma - 30th September - https://www.corevaluetech.com/blog/introduction-aspnet-core - https://youtu.be/Txa802J9vqo
 - **ASP.NET Core Part-2** - Navneet Sharma - 7th October
 - **Quarkas** - Piyush Tyagi - 9th October
 - **Concurrency in Transaction** - Nandita Hans - 14th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/wsC31ihbGbs
