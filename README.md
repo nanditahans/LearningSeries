@@ -2,7 +2,6 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Introduction to ASP.NET Core** - Navneet Sharma - 30th September - https://www.corevaluetech.com/blog/introduction-aspnet-core - https://youtu.be/Txa802J9vqo
 - **ASP.NET Core Part-2** - Navneet Sharma - 7th October
 - **Quarkas** - Piyush Tyagi - 9th October
 - **Concurrency in Transaction** - Nandita Hans - 14th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/wsC31ihbGbs
@@ -11,6 +10,7 @@
 - **Introduction to powershell** - Arpit Jain - To be decided
 
 ## Done
+- **Introduction to ASP.NET Core** - Navneet Sharma - 30th September - https://www.corevaluetech.com/blog/introduction-aspnet-core - https://youtu.be/X5ezPLXuTdQ
 - **UI Automation using RPA** - Piyush Joshi - 25th September - https://www.corevaluetech.com/blog/rpa-using-ui-path - https://youtu.be/_WS7mvEzScA
 - **Spring Batch** - Gunjan - 16th September - https://www.corevaluetech.com/blog/introduction-spring-batch - https://youtu.be/YXlJlna1C1E
 - **Introduction to Dart** - Dhananjay - 11th September - https://www.corevaluetech.com/blog/introduction-dart - https://youtu.be/52h9t4nuPLs
