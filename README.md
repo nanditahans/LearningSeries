@@ -8,6 +8,7 @@
 - **WebScrapping with Java** - Aman - To be decided
 - **Kafka Streams** - M Soni - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
+- **IaaC Using Terraform** - Atul Sharma - To be decided
 
 ## Done
 - **Introduction to ASP.NET Core** - Navneet Sharma - 30th September - https://www.corevaluetech.com/blog/introduction-aspnet-core - https://youtu.be/X5ezPLXuTdQ
