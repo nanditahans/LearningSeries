@@ -7,7 +7,7 @@
 - **Concurrency in Transaction** - Nandita Hans - 14th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/wsC31ihbGbs
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
-- **Observer Design Pattern: How To implement in java (will be covering the Design pattern and then implementation using java classes) ** 27 Nov
+- **Observer Design Pattern: How To implement in java (will be covering the Design pattern and then implementation using java classes)** 27 Nov
 - **Another Design Pattern: yet to decide** 11 Dec
 
 ## Done
