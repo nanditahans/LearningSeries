@@ -5,8 +5,6 @@
 - **ASP.NET Core Part-2** - Navneet Sharma - 7th October
 - **Quarkas** - Piyush Tyagi - 9th October
 - **Concurrency in Transaction** - Nandita Hans - 14th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/wsC31ihbGbs
-- **WebScrapping with Java** - Aman - To be decided
-- **Kafka Streams** - M Soni - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
 
