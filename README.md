@@ -2,7 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Concurrency in Transaction** - Nandita Hans - 9th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/wsC31ihbGbs
+- **Concurrency in Transaction** - Nandita Hans - 9th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/08hhLvj0Hrc
 - **Quarkas** - Piyush Tyagi - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
