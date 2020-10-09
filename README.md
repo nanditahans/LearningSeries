@@ -2,7 +2,6 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Concurrency in Transaction** - Nandita Hans - 9th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/08hhLvj0Hrc
 - **Quarkas** - Piyush Tyagi - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
@@ -10,6 +9,7 @@
 - **Another Design Pattern: yet to decide** - Deepak Singh - 11 Dec
 
 ## Done
+- **Concurrency in Transaction** - Nandita Hans - 9th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/AUhsjFqKwpM
 - **Introduction to ASP.NET Core** - Navneet Sharma - 30th September - https://www.corevaluetech.com/blog/introduction-aspnet-core - https://youtu.be/X5ezPLXuTdQ
 - **UI Automation using RPA** - Piyush Joshi - 25th September - https://www.corevaluetech.com/blog/rpa-using-ui-path - https://youtu.be/_WS7mvEzScA
 - **Spring Batch** - Gunjan - 16th September - https://www.corevaluetech.com/blog/introduction-spring-batch - https://youtu.be/YXlJlna1C1E
