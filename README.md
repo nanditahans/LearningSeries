@@ -2,6 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
+- **Google Optimizer** - Awantika Dwivedi - 16th Oct - https://www.corevaluetech.com/blog
 - **Quarkas** - Piyush Tyagi - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
