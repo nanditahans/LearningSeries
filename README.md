@@ -2,7 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Quarkas** - Piyush Tyagi - 27 Nov
+- **AWS Keyspaces** - Piyush Tyagi - 27 Nov
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
 - **Observer Design Pattern: How To implement in java (will be covering the Design pattern and then implementation using java classes)** - Deepak Singh - 4 Dec
