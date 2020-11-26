@@ -3,11 +3,13 @@
 
 ## Upcoming
 - **AWS Keyspaces** - Piyush Tyagi - 27 Nov
+- **Observer Design Pattern: How To implement in java (will be covering the Design pattern and then implementation using java classes)** - Deepak Singh - 4 Dec
+- **Yet to decide** - Vijay Joshi - 11 Dec
+- **Introduction to React Native** - Dhruv Sachdeva - 18 Dec
+- **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 24 Dec
+- **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
-- **Observer Design Pattern: How To implement in java (will be covering the Design pattern and then implementation using java classes)** - Deepak Singh - 4 Dec
-- **Another Design Pattern: yet to decide** - Deepak Singh - 11 Dec
-- **Introduction to React Native** - Dhruv Sachdeva - 18 Dec
 
 ## Done
 - **Google Optimizer** - Awantika Dwivedi - 16th Oct - https://www.corevaluetech.com/blog - https://www.corevaluetech.com/blog/google-website-optimizer-testing-and-personalization - https://youtu.be/WqYqbrPwTOY
