@@ -6,6 +6,7 @@
 - **Observer Design Pattern: How To implement in java (will be covering the Design pattern and then implementation using java classes)** - Deepak Singh - 4 Dec
 - **Yet to decide** - Vijay Joshi - 11 Dec
 - **Introduction to React Native** - Dhruv Sachdeva - 18 Dec
+- **Gridsome - Static site generator for Vue.js** - Nipun Jain - 23 Dec
 - **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 24 Dec
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
