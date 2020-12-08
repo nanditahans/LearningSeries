@@ -3,8 +3,8 @@
 
 ## Upcoming
 
-- **Yet to decide** - Vijay Joshi - 11 Dec
 - **Introduction to React Native** - Dhruv Sachdeva - 18 Dec
+- **Yet to decide** - Vijay Joshi - 11 Dec
 - **Gridsome - Static site generator for Vue.js** - Nipun Jain - 23 Dec
 - **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 24 Dec
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
