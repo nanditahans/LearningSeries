@@ -4,6 +4,7 @@
 ## Upcoming
 
 - **Introduction to React Native** - Dhruv Sachdeva - 11 Dec
+- **Java Memory Management** - N Hans - 16 Dec
 - **Yet to decide** - Vijay Joshi - 18 Dec
 - **Gridsome - Static site generator for Vue.js** - Nipun Jain - 23 Dec
 - **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 24 Dec
