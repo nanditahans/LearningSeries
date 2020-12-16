@@ -14,7 +14,7 @@
 - **Introduction to React Native** - Dhruv Sachdeva - 11 Dec - **(BLOG pending)** - https://youtu.be/ExBgcGQp3RI
 - **Observer Design Pattern: How To implement in java** - Deepak Singh - 4 Dec - https://youtu.be/eH7qfNwKmRU - **(BLOG pending)**
 - **AWS Keyspaces** - Piyush Tyagi - 27 Nov - https://youtu.be/hOKgZdtMHzQ - **(BLOG pending)**
-- **Google Optimizer** - Awantika Dwivedi - 16th Oct - https://www.corevaluetech.com/blog - https://www.corevaluetech.com/blog/google-website-optimizer-testing-and-personalization - https://youtu.be/WqYqbrPwTOY
+- **Google Optimizer** - Awantika Dwivedi - 16th Oct - https://www.corevaluetech.com/blog/google-website-optimizer-testing-and-personalization - https://youtu.be/WqYqbrPwTOY
 - **Concurrency in Transaction** - Nandita Hans - 9th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/AUhsjFqKwpM
 - **Introduction to ASP.NET Core** - Navneet Sharma - 30th September - https://www.corevaluetech.com/blog/introduction-aspnet-core - https://youtu.be/X5ezPLXuTdQ
 - **UI Automation using RPA** - Piyush Joshi - 25th September - https://www.corevaluetech.com/blog/rpa-using-ui-path - https://youtu.be/_WS7mvEzScA
