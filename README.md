@@ -7,6 +7,7 @@
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
+- **Deployment using Aws Beanstalk** - Rishabh Seth - To be decided
 
 ## Done
 - **Gridsome - Static site generator for Vue.js** - Nipun Jain - 18 Dec - **(BLOG pending)** - https://youtu.be/_GXQucI7TLc
