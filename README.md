@@ -2,8 +2,8 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Tableau** - Kshitij Jindal - 23 Dec
-- **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 24 Dec
+- **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 23 Dec
+- **Tableau** - Kshitij Jindal - 24 Dec
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
