@@ -2,8 +2,6 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 23 Dec
-- **Tableau** - Kshitij Jindal - 24 Dec
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 08 Jan
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
@@ -11,6 +9,8 @@
 - **Deployment using Aws Beanstalk** - Rishabh Seth - To be decided
 
 ## Done
+- **Tableau** - Kshitij Jindal - 24 Dec - TOBEUPLOADED - **(BLOG pending)**
+- **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 23 Dec - https://youtu.be/HXzspSrD9ek - **(BLOG pending)**
 - **Gridsome - Static site generator for Vue.js** - Nipun Jain - 18 Dec - **(BLOG pending)** - https://youtu.be/_GXQucI7TLc
 - **Java Memory Management** - N Hans - 16 Dec - https://www.corevaluetech.com/blog/java-memory-management - https://youtu.be/CqB6Xx729YE
 - **Introduction to React Native** - Dhruv Sachdeva - 11 Dec - **(BLOG pending)** - https://youtu.be/ExBgcGQp3RI
