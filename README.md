@@ -9,7 +9,7 @@
 - **Deployment using Aws Beanstalk** - Rishabh Seth - To be decided
 
 ## Done
-- **Tableau** - Kshitij Jindal - 24 Dec - TOBEUPLOADED - **(BLOG pending)**
+- **Tableau** - Kshitij Jindal - 24 Dec - https://youtu.be/fZ3ZdH9QG5Q - **(BLOG pending)**
 - **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 23 Dec - https://youtu.be/HXzspSrD9ek - **(BLOG pending)**
 - **Gridsome - Static site generator for Vue.js** - Nipun Jain - 18 Dec - **(BLOG pending)** - https://youtu.be/_GXQucI7TLc
 - **Java Memory Management** - N Hans - 16 Dec - https://www.corevaluetech.com/blog/java-memory-management - https://youtu.be/CqB6Xx729YE
