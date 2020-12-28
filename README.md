@@ -8,6 +8,7 @@
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
 - **Deployment using Aws Beanstalk** - Rishabh Seth - To be decided
+- **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - To be decided
 
 ## Done
 - **Tableau** - Kshitij Jindal - 24 Dec - https://youtu.be/fZ3ZdH9QG5Q - **(BLOG pending)**
