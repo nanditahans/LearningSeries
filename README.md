@@ -13,7 +13,7 @@
 - **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 23 Dec - https://youtu.be/HXzspSrD9ek - **(BLOG pending)**
 - **Gridsome - Static site generator for Vue.js** - Nipun Jain - 18 Dec - **(BLOG pending)** - https://youtu.be/_GXQucI7TLc
 - **Java Memory Management** - N Hans - 16 Dec - https://www.corevaluetech.com/blog/java-memory-management - https://youtu.be/CqB6Xx729YE
-- **Introduction to React Native** - Dhruv Sachdeva - 11 Dec - **(BLOG pending)** - https://youtu.be/ExBgcGQp3RI
+- **Introduction to React Native** - Dhruv Sachdeva - 11 Dec - https://www.corevaluetech.com/blog/introduction-react-native - https://youtu.be/ExBgcGQp3RI
 - **Observer Design Pattern: How To implement in java** - Deepak Singh - 4 Dec - https://youtu.be/eH7qfNwKmRU - **(BLOG pending)**
 - **AWS Keyspaces** - Piyush Tyagi - 27 Nov - https://youtu.be/hOKgZdtMHzQ - **(BLOG pending)**
 - **Google Optimizer** - Awantika Dwivedi - 16th Oct - https://www.corevaluetech.com/blog/google-website-optimizer-testing-and-personalization - https://youtu.be/WqYqbrPwTOY
