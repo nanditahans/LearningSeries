@@ -2,6 +2,7 @@
 # Learning Series WiKi
 
 ## Upcoming
+- **Intro to RabbitMQ** - Navneet Shamra - 30 Dec
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 08 Jan
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
