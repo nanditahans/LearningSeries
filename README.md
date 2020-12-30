@@ -11,7 +11,7 @@
 - **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - To be decided
 
 ## Done
-- **Tableau** - Kshitij Jindal - 24 Dec - https://youtu.be/fZ3ZdH9QG5Q - **(BLOG pending)**
+- **Tableau** - Kshitij Jindal - 24 Dec - https://youtu.be/fZ3ZdH9QG5Q - https://www.corevaluetech.com/blog/tableau
 - **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 23 Dec - https://youtu.be/HXzspSrD9ek - **(BLOG pending)**
 - **Gridsome - Static site generator for Vue.js** - Nipun Jain - 18 Dec - **(BLOG pending)** - https://youtu.be/_GXQucI7TLc
 - **Java Memory Management** - N Hans - 16 Dec - https://www.corevaluetech.com/blog/java-memory-management - https://youtu.be/CqB6Xx729YE
