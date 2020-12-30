@@ -2,15 +2,16 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **Intro to RabbitMQ** - Navneet Shamra - 30 Dec
+- **Deployment using Aws Beanstalk** - Rishabh Seth - 06 Jan
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 08 Jan
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
-- **Deployment using Aws Beanstalk** - Rishabh Seth - To be decided
+
 - **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - To be decided
 
 ## Done
+- **Intro to RabbitMQ** - Navneet Shamra - 30 Dec - TODO - **(BLOG pending)**
 - **Tableau** - Kshitij Jindal - 24 Dec - https://youtu.be/fZ3ZdH9QG5Q - https://www.corevaluetech.com/blog/tableau
 - **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 23 Dec - https://youtu.be/HXzspSrD9ek - **(BLOG pending)**
 - **Gridsome - Static site generator for Vue.js** - Nipun Jain - 18 Dec - **(BLOG pending)** - https://youtu.be/_GXQucI7TLc
