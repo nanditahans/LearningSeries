@@ -4,6 +4,7 @@
 ## Upcoming
 - **Deployment using Aws Beanstalk** - Rishabh Seth - 06 Jan
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 08 Jan
+- **FastAPI v/s Flask** - Vibhor Bhatnagar - 15 Jan
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
