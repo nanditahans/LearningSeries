@@ -1,6 +1,7 @@
 
 # Learning Series WiKi
 
+
 ## Upcoming
 - **IaaC Using Terraform** - Atul Sharma - 22 Jan
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 29 Jan
@@ -8,8 +9,8 @@
 - **A Deeper insight of S3** - 12 Feb
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
-
 - **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - To be decided
+
 
 ## Done
 - **FastAPI v/s Flask** - Vibhor Bhatnagar - 15 Jan - **(BLOG pending)** - video pending
