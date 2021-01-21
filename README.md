@@ -2,8 +2,9 @@
 # Learning Series WiKi
 
 ## Upcoming
-- **FastAPI v/s Flask** - Vibhor Bhatnagar - 15 Jan
-- **Aqueduct - ORM and packaging** - Dhananjay Gupta - 22 Jan
+- **Aqueduct - ORM and packaging** - Dhananjay Gupta - 29 Jan
+- **SAGA - Design Pattern** - 5 Feb
+- **A Deeper insight of S3** - 12 Feb
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **IaaC Using Terraform** - Atul Sharma - To be decided
@@ -11,6 +12,7 @@
 - **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - To be decided
 
 ## Done
+- **FastAPI v/s Flask** - Vibhor Bhatnagar - 15 Jan - **(BLOG pending)** - video pending
 - **Deployment using Aws Beanstalk** - Rishabh Seth - 06 Jan - **(BLOG pending)** - video pending
 - **Intro to RabbitMQ** - Navneet Shamra - 30 Dec - https://youtu.be/tP3jYrPg8GM - https://www.corevaluetech.com/blog/introduction-rabbitmq
 - **Tableau** - Kshitij Jindal - 24 Dec - https://youtu.be/fZ3ZdH9QG5Q - https://www.corevaluetech.com/blog/tableau
