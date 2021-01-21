@@ -14,7 +14,7 @@
 
 ## Done
 - **FastAPI v/s Flask** - Vibhor Bhatnagar - 15 Jan - **(BLOG pending)** - video pending
-- **Deployment using Aws Beanstalk** - Rishabh Seth - 06 Jan - **(BLOG pending)** - video pending
+- **Deployment using Aws Beanstalk** - Rishabh Seth - 06 Jan - **(BLOG pending)** - https://youtu.be/621dRS_nDHk
 - **Intro to RabbitMQ** - Navneet Shamra - 30 Dec - https://youtu.be/tP3jYrPg8GM - https://www.corevaluetech.com/blog/introduction-rabbitmq
 - **Tableau** - Kshitij Jindal - 24 Dec - https://youtu.be/fZ3ZdH9QG5Q - https://www.corevaluetech.com/blog/tableau
 - **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 23 Dec - https://youtu.be/HXzspSrD9ek - **(BLOG pending)**
