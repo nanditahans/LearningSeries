@@ -3,7 +3,6 @@
 
 
 ## Upcoming
-- **IaaC Using Terraform** - Atul Sharma - 22 Jan
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 29 Jan
 - **SAGA - Design Pattern** - 5 Feb
 - **A Deeper insight of S3** - 12 Feb
@@ -13,6 +12,7 @@
 
 
 ## Done
+- **IaaC Using Terraform** - Atul Sharma - 22 Jan - **(BLOG pending)** - https://youtu.be/TKwK3vrKhqs
 - **FastAPI v/s Flask** - Vibhor Bhatnagar - 15 Jan - **(BLOG pending)** - https://youtu.be/dnMVntAKRlw
 - **Deployment using Aws Beanstalk** - Rishabh Seth - 06 Jan - **(BLOG pending)** - https://youtu.be/621dRS_nDHk
 - **Intro to RabbitMQ** - Navneet Shamra - 30 Dec - https://youtu.be/tP3jYrPg8GM - https://www.corevaluetech.com/blog/introduction-rabbitmq
