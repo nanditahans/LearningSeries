@@ -9,6 +9,7 @@
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 - **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - To be decided
+- **Webscrapping in Java** - Aman Soni - To be decided
 
 
 ## Done
