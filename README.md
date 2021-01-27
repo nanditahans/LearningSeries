@@ -6,10 +6,11 @@
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 29 Jan
 - **SAGA - Design Pattern** - 5 Feb
 - **A Deeper insight of S3** - 12 Feb
+- **Webscrapping in Java** - Aman Soni - 19 Feb
 - **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - 26 Feb
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
-- **Webscrapping in Java** - Aman Soni - To be decided
+
 
 
 ## Done
