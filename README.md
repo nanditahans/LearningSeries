@@ -10,7 +10,6 @@
 - **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - 26 Feb
 - **Tips to choose Insurance** - Piyush Joshi - 5 Mar
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
-- **Introduction to powershell** - Arpit Jain - To be decided
 
 
 
