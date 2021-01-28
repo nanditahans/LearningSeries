@@ -8,6 +8,7 @@
 - **A Deeper insight of S3** - 12 Feb
 - **Webscrapping in Java** - Aman Soni - 19 Feb
 - **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - 26 Feb
+- **Tips to choose Insurance** - Piyush Joshi - 5 Mar
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Introduction to powershell** - Arpit Jain - To be decided
 
