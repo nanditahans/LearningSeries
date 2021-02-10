@@ -3,7 +3,6 @@
 
 
 ## Upcoming
-- **A Deeper insight of S3** - 10 Feb
 - **Webscrapping in Java** - Aman Soni - 19 Feb
 - **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - 26 Feb
 - **Tips to choose Insurance** - Piyush Joshi - 5 Mar
@@ -13,6 +12,7 @@
 
 
 ## Done
+- **A Deeper insight of S3** - 10 Feb - **(BLOG pending)** - https://youtu.be/bA7iLKupkAg
 - **SAGA - Design Pattern** - 5 Feb - **(BLOG pending)** - https://youtu.be/PtBhEFJ0vqA
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 29 Jan - **(BLOG pending)** - To Be Uplaoded
 - **IaaC Using Terraform** - Atul Sharma - 22 Jan - **(BLOG pending)** - https://youtu.be/TKwK3vrKhqs
