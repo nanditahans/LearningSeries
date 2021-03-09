@@ -9,11 +9,11 @@
 - **Tips to choose Insurance** - Piyush Joshi - 5 Mar
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Postman Features and Automation Scripts**: Aneesh Rastogi - 3 Mar
-- **Gitlab CICD**: Gunjan Kumar Mehta - 12 Mar
 
 
 
 ## Done
+- **Gitlab CICD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd - 
 - **A Deeper insight of S3** - 10 Feb - **(BLOG pending)** - https://youtu.be/DbD-N6q2tys
 - **SAGA - Design Pattern** - 5 Feb - **(BLOG pending)** - https://youtu.be/PtBhEFJ0vqA
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 29 Jan - **(BLOG pending)** - https://youtu.be/bA7iLKupkAg
