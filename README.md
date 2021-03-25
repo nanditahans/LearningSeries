@@ -9,6 +9,7 @@
 - **Tips to choose Insurance** - Piyush Joshi - 5 Mar
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Postman Features and Automation Scripts**: Aneesh Rastogi - 3 Mar
+- **Maven vs Gradle** - Chitwan Awasthy - To be decided
 
 
 
