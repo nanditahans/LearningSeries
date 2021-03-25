@@ -3,10 +3,15 @@
 
 
 ## Upcoming
-- **Webscrapping in Java** - Aman Soni - 19 Feb
-- **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy - 26 Feb
+- **Gitlab CICD**: Gunjan Kumar Mehta - 5 Mar
 - **Visitor Design Pattern** - Muskan Chaturvedi - 10 March
-- **Tips to choose Insurance** - Piyush Joshi - 5 Mar
+- **Web Scrapping with Node**: Arpit Kumar Pal - 12 Mar
+- **OpenCV with Python**: Kshitij Jindal - 17 Mar
+- **Rest Service Intro & Automation Testing with Unirest**: Rahul Choudhary - 19 Mar
+- **Automation Testing with Rest-Assured**: Rahul Choudhary - 19 Mar
+- **Mocking backend API using Wire-Mock**: Rahul Choudhary - 24 Mar
+- **Design Thinking**: Abhishek LG - 26 Mar
+- **Tips to choose Insurance** - Piyush Joshi - 31 Mar
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Postman Features and Automation Scripts**: Aneesh Rastogi - 3 Mar
 - **Maven vs Gradle** - Chitwan Awasthy - To be decided
@@ -14,7 +19,7 @@
 
 
 ## Done
-- **Gitlab CICD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd - 
+- **Gitlab CI/CD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd - **(TOBE UPLOADED)*
 - **A Deeper insight of S3** - 10 Feb - **(BLOG pending)** - https://youtu.be/DbD-N6q2tys
 - **SAGA - Design Pattern** - 5 Feb - **(BLOG pending)** - https://youtu.be/PtBhEFJ0vqA
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 29 Jan - **(BLOG pending)** - https://youtu.be/bA7iLKupkAg
@@ -99,6 +104,8 @@
 - **FrontEnd Automation using Cucumber based approach** - Rahul
 - **Serverless Computing** - V Kumar
 - **Bootstrap** - R Kumar
- 
+- **Postman Features and Automation Scripts**: Aneesh Rastogi
+- **Webscrapping in Java** - Aman Soni
+- **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy
  
 *Old Reference*: https://docs.google.com/spreadsheets/d/1t6dqx16IgpRGGL-Kf01CiR-KY_8-77bGSfduMFoT-A8/edit#gid=0
