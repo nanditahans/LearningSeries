@@ -20,6 +20,7 @@
 
 
 ## Done
+- **Microsoft Luis** - Nandita Hans 9 April - https://www.corevaluetech.com/blog/microsoft-luis - **(TOBE UPLOADED)**
 - **Gitlab CI/CD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd - **(TOBE UPLOADED)*
 - **A Deeper insight of S3** - 10 Feb - **(BLOG pending)** - https://youtu.be/DbD-N6q2tys
 - **SAGA - Design Pattern** - 5 Feb - **(BLOG pending)** - https://youtu.be/PtBhEFJ0vqA
