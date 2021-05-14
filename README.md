@@ -28,18 +28,18 @@
 - **Visitor Design Pattern** - Muskan Chaturvedi  - 10 March - **(BLOG pending)** 
 - **Gitlab CI/CD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd
 - **Postman Features and Automation** - Aneesh Rastogi - 3 March - **(BLOG pending)** - https://www.youtube.com/watch?v=KuiC6Ih14mc
-- **AVRO and Schema registry with Kafka** - Chitwan Awasthy- 26 Feb - **(BLOG pending)** - https://www.youtube.com/watch?v=SKLb-KhnpYE
+- **AVRO and Schema registry with Kafka** - Chitwan Awasthy - 26 Feb - **(BLOG pending)** - https://www.youtube.com/watch?v=SKLb-KhnpYE
 - **Web scrapping in java** - Aman Kumar Soni  19 Feb - **(BLOG pending)** - https://www.youtube.com/watch?v=4oS07aTiVIk
 - **A Deeper insight of S3** - Piyush Tyagi- 10 Feb - **(BLOG pending)** - https://youtu.be/DbD-N6q2tys
 - **SAGA - Design Pattern** -Piyush Tyagi - 5 Feb - **(BLOG pending)** - https://youtu.be/PtBhEFJ0vqA
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 29 Jan - **(BLOG pending)** - https://youtu.be/bA7iLKupkAg
 - **IaaC Using Terraform** - Atul Sharma - 22 Jan - **(BLOG pending)** - https://youtu.be/TKwK3vrKhqs
 - **FastAPI v/s Flask** - Vibhor Bhatnagar - 15 Jan - https://www.corevaluetech.com/blog/fastapi-vs-flask - https://youtu.be/dnMVntAKRlw
-- **Deployment using Aws Beanstalk** - Rishabh Seth - 06 Jan - **(BLOG pending)** - https://youtu.be/621dRS_nDHk
+- **Deployment using Aws Beanstalk** - Rishabh Seth - 06 Jan - https://www.corevaluetech.com/blog/deployment-using-aws-elastic-beanstalk - https://youtu.be/621dRS_nDHk
 - **Intro to RabbitMQ** - Navneet Shamra - 30 Dec - https://youtu.be/tP3jYrPg8GM - https://www.corevaluetech.com/blog/introduction-rabbitmq
 - **Tableau** - Kshitij Jindal - 24 Dec - https://youtu.be/fZ3ZdH9QG5Q - https://www.corevaluetech.com/blog/tableau
 - **Aqueduct - Dart's approach to web services** - Dhananjay Gupta - 23 Dec - https://youtu.be/HXzspSrD9ek - **(BLOG pending)**
-- **Gridsome - Static site generator for Vue.js** - Nipun Jain - 18 Dec - **(BLOG pending)** - https://youtu.be/_GXQucI7TLc
+- **Gridsome - Static site generator for Vue.js** - Nipun Jain - 18 Dec - https://www.corevaluetech.com/blog/gridsome-static-site-generator - https://youtu.be/_GXQucI7TLc
 - **Java Memory Management** - N Hans - 16 Dec - https://www.corevaluetech.com/blog/java-memory-management - https://youtu.be/CqB6Xx729YE
 - **Introduction to React Native** - Dhruv Sachdeva - 11 Dec - https://www.corevaluetech.com/blog/introduction-react-native - https://youtu.be/ExBgcGQp3RI
 - **Observer Design Pattern: How To implement in java** - Deepak Singh - 4 Dec - https://youtu.be/eH7qfNwKmRU - **(BLOG pending)**
