@@ -3,6 +3,7 @@
 
 
 ## Upcoming
+- **Optimise React Js Performance**: Dhruv Sachdeva - 21 May
 - **Mocking backend API using Wire-Mock**: Rahul Choudhary - 24 Mar
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Maven vs Gradle** - Chitwan Awasthy - To be decided
