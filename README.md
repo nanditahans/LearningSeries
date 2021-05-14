@@ -3,30 +3,38 @@
 
 
 ## Upcoming
-- **Gitlab CICD**: Gunjan Kumar Mehta - 5 Mar
-- **Visitor Design Pattern** - Muskan Chaturvedi - 10 March
-- **Web Scrapping with Node**: Arpit Kumar Pal - 12 Mar
-- **OpenCV with Python**: Kshitij Jindal - 17 Mar
-- **Rest Service Intro & Automation Testing with Unirest**: Rahul Choudhary - 19 Mar
-- **Automation Testing with Rest-Assured**: Rahul Choudhary - 19 Mar
 - **Mocking backend API using Wire-Mock**: Rahul Choudhary - 24 Mar
-- **Design Thinking**: Abhishek LG - 26 Mar
-- **Tips to choose Insurance** - Piyush Joshi - 31 Mar
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
-- **Postman Features and Automation Scripts**: Aneesh Rastogi - 3 Mar
 - **Maven vs Gradle** - Chitwan Awasthy - To be decided
-- **Dapr - An introduction** - Aneesh Rastogi - 23 April
-
-
 
 ## Done
-- **Microsoft Luis** - Nandita Hans 9 April - https://www.corevaluetech.com/blog/microsoft-luis - **(TOBE UPLOADED)**
-- **Gitlab CI/CD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd - **(TOBE UPLOADED)*
-- **A Deeper insight of S3** - 10 Feb - **(BLOG pending)** - https://youtu.be/DbD-N6q2tys
-- **SAGA - Design Pattern** - 5 Feb - **(BLOG pending)** - https://youtu.be/PtBhEFJ0vqA
+
+- **Data Analysis using R Programming** - Kshitij Jindal - 14 May - **(BLOG pending)**
+- **Code smells** - Piyush Tyagi - 7 May - **(BLOG pending)**
+- **Leaflet** - Nipun Jain - 5 May - **(BLOG pending)**
+- **Execution context in JS** - Dhruv  - 30 April - **(BLOG pending)**
+- **Protobuf** - Atul Sharma  - 28 April - **(BLOG pending)**
+- **DAPR: An introduction** - Aneesh Rastogi   - 23 April - **(BLOG pending)**
+- **AWS Lambda With Dockerized Python API ( API as function )** - Deepak Singh  - 16 April - **(BLOG pending)**
+- **Microsoft Luis** - Nandita Hans - 9 April - https://www.corevaluetech.com/blog/microsoft-luis
+- **What does it take to be an expert at Python** - Ritam  - 2 April - **(BLOG pending)**
+- **Basics of Insurance** - Piyush Joshi  - 1 April - **(BLOG pending)**
+- **Design Thinking** - Abhishek LG  - 26 March - **(BLOG pending)**
+- **React Native Web + Next JS** - Dhruv - 22 March - **(BLOG pending)**
+- **Automation of API using Restassured** - Dhananjay Gupta - 19 March - **(BLOG pending)**
+- **OpenCv with python** - Kshitij Jindal - 17 March - **(BLOG pending)**
+- **Rest service intro and automation using UniRest** - Rahul Choudhary - 15 March - **(BLOG pending)**
+- **Web scraping using -- Node.js** - Arpit Kumar Pal  - 12 March - **(BLOG pending)** 
+- **Visitor Design Pattern** - Muskan Chaturvedi  - 10 March - **(BLOG pending)** 
+- **Gitlab CI/CD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd
+- **Postman Features and Automation** - Aneesh Rastogi - 3 March - **(BLOG pending)** - https://www.youtube.com/watch?v=KuiC6Ih14mc
+- **AVRO and Schema registry with Kafka** - Chitwan Awasthy- 26 Feb - **(BLOG pending)** - https://www.youtube.com/watch?v=SKLb-KhnpYE
+- **Web scrapping in java** - Aman Kumar Soni  19 Feb - **(BLOG pending)** - https://www.youtube.com/watch?v=4oS07aTiVIk
+- **A Deeper insight of S3** - Piyush Tyagi- 10 Feb - **(BLOG pending)** - https://youtu.be/DbD-N6q2tys
+- **SAGA - Design Pattern** -Piyush Tyagi - 5 Feb - **(BLOG pending)** - https://youtu.be/PtBhEFJ0vqA
 - **Aqueduct - ORM and packaging** - Dhananjay Gupta - 29 Jan - **(BLOG pending)** - https://youtu.be/bA7iLKupkAg
 - **IaaC Using Terraform** - Atul Sharma - 22 Jan - **(BLOG pending)** - https://youtu.be/TKwK3vrKhqs
-- **FastAPI v/s Flask** - Vibhor Bhatnagar - 15 Jan - **(BLOG pending)** - https://youtu.be/dnMVntAKRlw
+- **FastAPI v/s Flask** - Vibhor Bhatnagar - 15 Jan - https://www.corevaluetech.com/blog/fastapi-vs-flask - https://youtu.be/dnMVntAKRlw
 - **Deployment using Aws Beanstalk** - Rishabh Seth - 06 Jan - **(BLOG pending)** - https://youtu.be/621dRS_nDHk
 - **Intro to RabbitMQ** - Navneet Shamra - 30 Dec - https://youtu.be/tP3jYrPg8GM - https://www.corevaluetech.com/blog/introduction-rabbitmq
 - **Tableau** - Kshitij Jindal - 24 Dec - https://youtu.be/fZ3ZdH9QG5Q - https://www.corevaluetech.com/blog/tableau
