@@ -27,7 +27,7 @@
 - **Rest service intro and automation using UniRest** - Rahul Choudhary - 15 March - **(BLOG pending)**
 - **Web scraping using -- Node.js** - Arpit Kumar Pal  - 12 March - **(BLOG pending)** - Web scraping using -- https://youtu.be/dEST4owRROA
 - **Visitor Design Pattern** - Muskan Chaturvedi  - 10 March - **(BLOG pending)** - https://youtu.be/xQghJn0YhfE
-- **Gitlab CI/CD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd
+- **Gitlab CI/CD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd - https://youtu.be/4WJw8gfCd4o
 - **Postman Features and Automation** - Aneesh Rastogi - 3 March - **(BLOG pending)** - https://www.youtube.com/watch?v=KuiC6Ih14mc
 - **AVRO and Schema registry with Kafka** - Chitwan Awasthy - 26 Feb - **(BLOG pending)** - https://www.youtube.com/watch?v=SKLb-KhnpYE
 - **Web scrapping in java** - Aman Kumar Soni  19 Feb - **(BLOG pending)** - https://www.youtube.com/watch?v=4oS07aTiVIk
