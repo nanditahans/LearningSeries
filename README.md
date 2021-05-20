@@ -10,23 +10,23 @@
 
 ## Done
 
-- **Data Analysis using R Programming** - Kshitij Jindal - 14 May - **(BLOG pending)**
+- **Data Analysis using R Programming** - Kshitij Jindal - 14 May - **(BLOG pending)** - https://youtu.be/iD5yPqCN2Wk
 - **Code smells** - Piyush Tyagi - 7 May - **(BLOG pending)**
 - **Leaflet** - Nipun Jain - 5 May - **(BLOG pending)**
-- **Execution context in JS** - Dhruv  - 30 April - **(BLOG pending)**
-- **Protobuf** - Atul Sharma  - 28 April - **(BLOG pending)**
-- **DAPR: An introduction** - Aneesh Rastogi   - 23 April - **(BLOG pending)**
+- **Execution context in JS** - Dhruv  - 30 April - **(BLOG pending)** - https://youtu.be/9ecqgXQ9Z1k
+- **Protobuf** - Atul Sharma  - 28 April - **(BLOG pending)** -  https://youtu.be/xwwhntDeXxs
+- **DAPR: An introduction** - Aneesh Rastogi   - 23 April - **(BLOG pending)** - https://youtu.be/gy1ps3AZWow
 - **AWS Lambda With Dockerized Python API ( API as function )** - Deepak Singh  - 16 April - **(BLOG pending)**
-- **Microsoft Luis** - Nandita Hans - 9 April - https://www.corevaluetech.com/blog/microsoft-luis
-- **What does it take to be an expert at Python** - Ritam  - 2 April - **(BLOG pending)**
+- **Microsoft Luis** - Nandita Hans - 9 April - https://www.corevaluetech.com/blog/microsoft-luis - https://youtu.be/Wcg5iBv8xNw
+- **What does it take to be an expert at Python** - Ritam  - 2 April - **(BLOG pending)** - https://youtu.be/i7tS3tkEf5A
 - **Basics of Insurance** - Piyush Joshi  - 1 April - **(BLOG pending)**
-- **Design Thinking** - Abhishek LG  - 26 March - **(BLOG pending)**
+- **Design Thinking** - Abhishek LG  - 26 March - **(BLOG pending)** - https://youtu.be/jJP_MtfaqXs
 - **React Native Web + Next JS** - Dhruv - 22 March - **(BLOG pending)**
-- **Automation of API using Restassured** - Dhananjay Gupta - 19 March - **(BLOG pending)**
+- **Automation of API using Restassured** - Rahul Choudhary - 19 March - **(BLOG pending)**
 - **OpenCv with python** - Kshitij Jindal - 17 March - **(BLOG pending)**
 - **Rest service intro and automation using UniRest** - Rahul Choudhary - 15 March - **(BLOG pending)**
-- **Web scraping using -- Node.js** - Arpit Kumar Pal  - 12 March - **(BLOG pending)** 
-- **Visitor Design Pattern** - Muskan Chaturvedi  - 10 March - **(BLOG pending)** 
+- **Web scraping using -- Node.js** - Arpit Kumar Pal  - 12 March - **(BLOG pending)** - Web scraping using -- https://youtu.be/dEST4owRROA
+- **Visitor Design Pattern** - Muskan Chaturvedi  - 10 March - **(BLOG pending)** - https://youtu.be/xQghJn0YhfE
 - **Gitlab CI/CD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd
 - **Postman Features and Automation** - Aneesh Rastogi - 3 March - **(BLOG pending)** - https://www.youtube.com/watch?v=KuiC6Ih14mc
 - **AVRO and Schema registry with Kafka** - Chitwan Awasthy - 26 Feb - **(BLOG pending)** - https://www.youtube.com/watch?v=SKLb-KhnpYE
