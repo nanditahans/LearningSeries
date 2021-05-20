@@ -12,7 +12,7 @@
 
 - **Data Analysis using R Programming** - Kshitij Jindal - 14 May - **(BLOG pending)** - https://youtu.be/iD5yPqCN2Wk
 - **Code smells** - Piyush Tyagi - 7 May - **(BLOG pending)** - https://youtu.be/bpix0VYp2Z4
-- **Leaflet** - Nipun Jain - 5 May - **(BLOG pending)**
+- **Leaflet** - Nipun Jain - 5 May - **(BLOG pending)** - https://youtu.be/rij2D2v0HbA
 - **Execution context in JS** - Dhruv  - 30 April - **(BLOG pending)** - https://youtu.be/9ecqgXQ9Z1k
 - **Protobuf** - Atul Sharma  - 28 April - **(BLOG pending)** -  https://youtu.be/xwwhntDeXxs
 - **DAPR: An introduction** - Aneesh Rastogi   - 23 April - **(BLOG pending)** - https://youtu.be/gy1ps3AZWow
