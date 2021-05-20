@@ -25,7 +25,7 @@
 - **Automation of API using Restassured** - Rahul Choudhary - 19 March - **(BLOG pending)**
 - **OpenCv with python** - Kshitij Jindal - 17 March - **(BLOG pending)**
 - **Rest service intro and automation using UniRest** - Rahul Choudhary - 15 March - **(BLOG pending)**
-- **Web scraping using -- Node.js** - Arpit Kumar Pal  - 12 March - **(BLOG pending)** - Web scraping using -- https://youtu.be/dEST4owRROA
+- **Web scraping using -- Node.js** - Arpit Kumar Pal  - 12 March - **(BLOG pending)** - https://youtu.be/dEST4owRROA
 - **Visitor Design Pattern** - Muskan Chaturvedi  - 10 March - **(BLOG pending)** - https://youtu.be/xQghJn0YhfE
 - **Gitlab CI/CD** - Gunjan Kumar Mehta 5 Mar - https://www.corevaluetech.com/blog/gitlab-cicd - https://youtu.be/4WJw8gfCd4o
 - **Postman Features and Automation** - Aneesh Rastogi - 3 March - **(BLOG pending)** - https://www.youtube.com/watch?v=KuiC6Ih14mc
@@ -115,8 +115,5 @@
 - **FrontEnd Automation using Cucumber based approach** - Rahul
 - **Serverless Computing** - V Kumar
 - **Bootstrap** - R Kumar
-- **Postman Features and Automation Scripts**: Aneesh Rastogi
-- **Webscrapping in Java** - Aman Soni
-- **Kafka - AVRO Serialization and Schema registry** - Chitwan Awasthy
  
 *Old Reference*: https://docs.google.com/spreadsheets/d/1t6dqx16IgpRGGL-Kf01CiR-KY_8-77bGSfduMFoT-A8/edit#gid=0
