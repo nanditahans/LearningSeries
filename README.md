@@ -11,7 +11,7 @@
 ## Done
 
 - **Data Analysis using R Programming** - Kshitij Jindal - 14 May - **(BLOG pending)** - https://youtu.be/iD5yPqCN2Wk
-- **Code smells** - Piyush Tyagi - 7 May - **(BLOG pending)**
+- **Code smells** - Piyush Tyagi - 7 May - **(BLOG pending)** - https://youtu.be/bpix0VYp2Z4
 - **Leaflet** - Nipun Jain - 5 May - **(BLOG pending)**
 - **Execution context in JS** - Dhruv  - 30 April - **(BLOG pending)** - https://youtu.be/9ecqgXQ9Z1k
 - **Protobuf** - Atul Sharma  - 28 April - **(BLOG pending)** -  https://youtu.be/xwwhntDeXxs
