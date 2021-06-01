@@ -7,6 +7,7 @@
 - **Maven vs Gradle** - Chitwan Awasthy - 4 June
 - **Mocking backend API using Wire-Mock**: Rahul Choudhary - To be decided
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
+- **Google Cloud Funtions** - Prince Goyal - To be decided
 
 ## Done
 
