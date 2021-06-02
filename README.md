@@ -11,6 +11,7 @@
 
 ## Done
 
+- **Illustrations** - Abhishek LG - 2 June - **(BLOG pending)** - https://youtu.be/Dn6ibrvrA5E
 - **CloudFront + Lambda@Edge** - Deepak Singh - 28 May - **(BLOG pending)** - https://youtu.be/hQVMo75xDkw
 - **Optimise React Js Performance** - Dhruv Sachdeva - 26 May - **(BLOG pending)** - https://youtu.be/edrVPiPvEjQ
 - **JAVA 7** - Rahul Choudhary - 21 May - **(BLOG pending)** - https://youtu.be/WqatA7xHadI
