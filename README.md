@@ -4,13 +4,13 @@
 
 ## Upcoming
 
-- **Maven vs Gradle** - Chitwan Awasthy - 4 June
 - **Mocking backend API using Wire-Mock**: Rahul Choudhary - To be decided
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 - **Google Cloud Functions** - Prince Goyal - To be decided
 
 ## Done
 
+- **Maven vs Gradle** - Chitwan Awasthy - 4 June - **(BLOG pending)** - https://youtu.be/D6ukTwfkuSc
 - **Illustrations** - Abhishek LG - 2 June - **(BLOG pending)** - https://youtu.be/Dn6ibrvrA5E
 - **CloudFront + Lambda@Edge** - Deepak Singh - 28 May - **(BLOG pending)** - https://youtu.be/hQVMo75xDkw
 - **Optimise React Js Performance** - Dhruv Sachdeva - 26 May - **(BLOG pending)** - https://youtu.be/edrVPiPvEjQ
