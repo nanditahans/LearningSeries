@@ -4,13 +4,14 @@
 
 ## Upcoming
 
-- **Dapr : Practical approach**- Aneesh Rastogi - 16 June 2021
+- **Dapr : Practical approach**- Aneesh Rastogi - 23 June 2021
 - **Mocking backend API using Wire-Mock**: Rahul Choudhary - To be decided
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
 
 
 ## Done
 
+- **PostGIS** - Pranci Saxena - 16 June 2021 - **(BLOG pending)** - https://youtu.be/ogK_jhxzmiU
 - **Google Cloud Functions** - Prince Goyal - 11 June 2021 - **(BLOG pending)** - https://youtu.be/lNz2M0Wnc4g
 - **Maven vs Gradle** - Chitwan Awasthy - 4 June - **(BLOG pending)** - https://youtu.be/D6ukTwfkuSc
 - **Illustrations** - Abhishek LG - 2 June - **(BLOG pending)** - https://youtu.be/Dn6ibrvrA5E
