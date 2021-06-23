@@ -4,10 +4,8 @@
 
 ## Upcoming
 
-- **Dapr : Practical approach**- Aneesh Rastogi - 23 June 2021
 - **Mocking backend API using Wire-Mock**: Rahul Choudhary - To be decided
 - **Another Design Pattern: yet to decide** - Deepak Singh - To be decided
-
 
 ## Done
 
