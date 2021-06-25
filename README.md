@@ -9,6 +9,7 @@
 
 ## Done
 
+- **Enterprise Resource Planning (ERP)** - Navneet Sharma - 25 June 2021 - **(BLOG pending)** - https://youtu.be/ibG03iqO0zw
 - **DAPR :Practical Approach** - Aneesh Rastogi - 23 June 2021 - **(BLOG pending)** - https://youtu.be/OnuiadlTB_8
 - **EmberJs : Quickstart** - Dhruv Sachdeva - 18 June 2021 - **(BLOG pending)** - https://youtu.be/nV5btKTnpSk
 - **PostGIS** - Pranci Saxena - 16 June 2021 - **(BLOG pending)** - https://youtu.be/ogK_jhxzmiU
